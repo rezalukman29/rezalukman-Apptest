@@ -1,1 +1,1 @@
-﻿# React Native simple CRUD with Redux, Redux-Thunk
+﻿# React Native simple CRUD with Expo, Redux, Redux-Thunk
